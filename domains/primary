@@ -1,6 +1,6 @@
 # Title: plainasday/Plain-TLD-Blocklist
 #
-# This file is a merged collection of TLDs from reputable sources. Community input is most welcome.
+# Comment: This file is a merged collection of TLDs from reputable sources. Community input is most welcome.
 #
 # Format: domains
 #
@@ -11,7 +11,7 @@
 # Project releases: 
 #
 # ===============================================================
-
+#
 *.asia
 *.associates
 *.cn

@@ -1,0 +1,35 @@
+
+# Title: plainasday/Plain-TLD-Blocklist
+#
+# This file is a merged collection of TLDs from reputable sources. Community input is most welcome.
+#
+# Format: Adblock Plus (ABP)
+#
+# Date: 21 October 2022
+#
+# Fetch the latest version of this file: 
+# Project home page: 
+# Project releases: 
+#
+# ===============================================================
+#
+||*.asia^
+||*.associates^
+||*.cn^
+||*.cricket^
+||*.discount^
+||*.financial^
+||*.fit^
+||*.gq^
+||*.icu^
+||*.info^
+||*.link^
+||*.ml^
+||*.monster^
+||*.review^
+||*.surf^
+||*.surf^
+||*.tokyo^
+||*.top^
+||*.work^
+||*.机构^

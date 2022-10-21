@@ -1,0 +1,88 @@
+# Title: plainasday/Plain-TLD-Blocklist
+#
+# Comment: This file is a merged collection of TLDs from reputable sources. It is contains entries from the primary plus additional TLDs. 
+#          Since there are more entries, there is more opportunity for breakage. Community input is most welcome.
+#
+# Format: domains
+#
+# Date: 21 October 2022
+#
+# Fetch the latest version of this file: 
+# Project home page: 
+# Project releases: 
+#
+# ===============================================================
+#
+*.accountant
+*.accountants
+*.asia
+*.asia
+*.associates
+*.bid
+*.cf
+*.christmas
+*.cn
+*.cn
+*.country
+*.country
+*.cricket
+*.cricket
+*.date
+*.date
+*.discount
+*.download
+*.faith
+*.financial
+*.fit
+*.fit
+*.ga
+*.gdn
+*.gdn
+*.gq
+*.gq
+*.gq
+*.icu
+*.info
+*.jetzt
+*.kim
+*.kim
+*.link
+*.loan
+*.men
+*.ml
+*.ml
+*.mom
+*.mom
+*.monster
+*.ninja
+*.party
+*.pro
+*.racing
+*.racing
+*.realtor
+*.ren
+*.rest
+*.review
+*.review
+*.science
+*.space
+*.stream
+*.stream
+*.surf
+*.surf
+*.tk
+*.tokyo
+*.top
+*.top
+*.trade
+*.vip
+*.wang
+*.win
+*.win
+*.work
+*.work
+*.work
+*.xyz
+*.zin
+*.zip
+*.机构

@@ -1,7 +1,7 @@
 # Plain-TLD-Blocklist
 
 ### Purpose
-This repository contains simple blocklists for Top-Level Domains (TLDs) based on reputable sources.
+This repository contains humble blocklists for Top-Level Domains (TLDs) based on reputable sources.
 
 ### Supported Syntax
 Supported syntax includes domains (PiHole, pfblockerNG, etc.) and Adblock Plus (Adguard, Adguard Home, uBlock Origin, etc.). 

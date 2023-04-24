@@ -1,3 +1,7 @@
+# **Depricated. [HaGeZi's TLD blocklist](https://github.com/hagezi/dns-blocklists#most-abused-tlds---protects-against-known-malicious-top-level-domains-) is better and more frequently maintained. Recommend using his instead.** 
+
+
+
 # Plain-TLD-Blocklist
 
 ### Purpose
